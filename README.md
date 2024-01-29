@@ -7,5 +7,8 @@
     <img src="https://img.shields.io/badge/React%20-DD0700.svg?&style=for-the-badge&&logoColor=white"/>
 </p> 
 
+## プロジェクトの紹介
+- このプロジェクトはユーザーたちのためにPapagoAPIを使用した
+
 ## 画面機能
 - 翻訳画面
