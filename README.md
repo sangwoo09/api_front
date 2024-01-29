@@ -3,3 +3,6 @@
 </p>
 
 ## 使用した言語
+<p align='left'>
+    <img src="https://img.shields.io/badge/React%20-DD0700.svg?&style=for-the-badge&&logoColor=white"/>
+</p> 
